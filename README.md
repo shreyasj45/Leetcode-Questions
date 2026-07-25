@@ -15,6 +15,7 @@
 | [0141-linked-list-cycle](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
@@ -31,6 +32,7 @@
 | [0141-linked-list-cycle](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -65,4 +67,16 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
