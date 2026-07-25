@@ -67,6 +67,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +80,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
