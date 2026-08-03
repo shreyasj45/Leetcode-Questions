@@ -103,6 +103,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -208,4 +209,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
