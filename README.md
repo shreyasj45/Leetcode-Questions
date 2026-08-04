@@ -147,6 +147,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -169,6 +170,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -225,6 +228,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
