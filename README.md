@@ -110,6 +110,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -257,4 +258,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
