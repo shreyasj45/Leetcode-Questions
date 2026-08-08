@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -82,6 +83,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -98,6 +100,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
@@ -273,6 +276,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -290,4 +294,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
