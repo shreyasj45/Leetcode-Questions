@@ -62,6 +62,7 @@
 | [0264-ugly-number-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@
 | [0414-third-maximum-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -130,6 +132,7 @@
 | [0414-third-maximum-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -138,6 +141,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
@@ -145,6 +149,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Tree
 |  |
@@ -294,6 +299,7 @@
 | [0264-ugly-number-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -312,8 +318,13 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
