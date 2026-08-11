@@ -64,6 +64,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
