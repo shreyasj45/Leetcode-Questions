@@ -41,6 +41,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -72,6 +73,7 @@
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
