@@ -196,6 +196,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [0617-merge-two-binary-trees](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
