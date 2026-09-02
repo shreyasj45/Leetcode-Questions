@@ -147,6 +147,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0414-third-maximum-number) |
@@ -352,6 +353,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0275-h-index-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0275-h-index-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
