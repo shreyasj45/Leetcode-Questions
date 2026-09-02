@@ -74,6 +74,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
@@ -129,6 +130,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -157,6 +159,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
@@ -406,5 +409,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
