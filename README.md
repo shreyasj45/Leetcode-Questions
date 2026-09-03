@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
