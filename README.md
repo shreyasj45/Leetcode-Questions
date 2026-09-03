@@ -164,6 +164,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
