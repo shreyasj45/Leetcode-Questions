@@ -39,6 +39,7 @@
 | [0148-sort-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -105,6 +106,7 @@
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2364-count-number-of-bad-pairs](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -184,6 +186,7 @@
 | [0071-simplify-path](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
