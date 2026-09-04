@@ -87,6 +87,7 @@
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0682-baseball-game) |
@@ -163,6 +164,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
@@ -449,4 +451,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
