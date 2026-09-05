@@ -97,6 +97,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1544-make-the-string-great) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -175,6 +176,7 @@
 | [0739-daily-temperatures](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bracket Sequences
@@ -465,4 +468,5 @@
 | [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
