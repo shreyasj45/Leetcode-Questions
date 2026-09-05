@@ -114,6 +114,7 @@
 | [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -210,6 +212,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -457,6 +460,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 ## Bracket Sequences
 |  |
 | ------- |
