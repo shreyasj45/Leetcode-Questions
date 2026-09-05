@@ -156,6 +156,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
@@ -207,6 +208,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -454,6 +456,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Bracket Sequences
 |  |
 | ------- |
