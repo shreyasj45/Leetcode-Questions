@@ -79,6 +79,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -489,6 +491,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -497,4 +500,8 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
