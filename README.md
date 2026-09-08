@@ -41,6 +41,7 @@
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -103,6 +104,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -192,6 +194,7 @@
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -414,6 +417,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -500,8 +504,13 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
