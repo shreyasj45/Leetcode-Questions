@@ -285,6 +285,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -324,6 +325,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -370,6 +372,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
