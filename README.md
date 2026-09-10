@@ -181,6 +181,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0275-h-index-ii) |
@@ -419,6 +420,7 @@
 | [0099-recover-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0275-h-index-ii) |
