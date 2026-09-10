@@ -86,6 +86,7 @@
 | [0143-reorder-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0402-remove-k-digits) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -176,6 +178,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0275-h-index-ii) |
