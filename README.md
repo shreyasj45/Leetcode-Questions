@@ -112,6 +112,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3523-make-array-non-decreasing) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
 |  |
@@ -212,6 +213,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [3523-make-array-non-decreasing](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3523-make-array-non-decreasing) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -501,6 +503,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3523-make-array-non-decreasing](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3523-make-array-non-decreasing) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -528,6 +531,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [3523-make-array-non-decreasing](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3523-make-array-non-decreasing) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
