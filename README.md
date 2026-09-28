@@ -301,6 +301,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -343,6 +344,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -392,6 +394,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -418,6 +421,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1302-deepest-leaves-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
