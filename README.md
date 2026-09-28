@@ -239,6 +239,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [3498-reverse-degree-of-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -495,6 +496,7 @@
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
