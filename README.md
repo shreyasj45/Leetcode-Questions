@@ -216,6 +216,7 @@
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -518,6 +519,7 @@
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -574,4 +576,5 @@
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
