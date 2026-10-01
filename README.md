@@ -50,6 +50,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -93,6 +94,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0402-remove-k-digits) |
@@ -568,4 +570,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
