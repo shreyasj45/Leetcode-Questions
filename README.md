@@ -53,6 +53,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
@@ -495,6 +496,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -571,4 +573,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
