@@ -23,6 +23,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -51,6 +52,7 @@
 | [0155-min-stack](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
@@ -203,6 +205,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -575,6 +578,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
