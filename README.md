@@ -166,6 +166,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -215,6 +216,7 @@
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -526,6 +528,7 @@
 | [0682-baseball-game](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -587,6 +590,7 @@
 | [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
