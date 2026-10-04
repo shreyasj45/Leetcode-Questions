@@ -119,6 +119,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -219,6 +220,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
@@ -524,6 +526,7 @@
 | [0682-baseball-game](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
@@ -584,5 +587,6 @@
 | [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
