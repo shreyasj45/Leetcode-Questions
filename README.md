@@ -76,6 +76,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -243,6 +244,7 @@
 | [0071-simplify-path](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0556-next-greater-element-iii) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0692-top-k-frequent-words) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -587,6 +590,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
