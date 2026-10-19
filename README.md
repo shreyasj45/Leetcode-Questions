@@ -225,6 +225,7 @@
 | [1673-find-the-most-competitive-subsequence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1816-truncate-sentence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1816-truncate-sentence) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -253,6 +254,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1544-make-the-string-great](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1544-make-the-string-great) |
+| [1816-truncate-sentence](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
