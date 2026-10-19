@@ -233,6 +233,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3523-make-array-non-decreasing](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3523-make-array-non-decreasing) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shreyasj45/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -599,4 +600,8 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/shreyasj45/Leetcode-Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shreyasj45/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shreyasj45/Leetcode-Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
